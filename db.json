@@ -71,6 +71,34 @@
           "name": "Mary Gordon"
         }
       ]
+    },
+    {
+      "id": 6130273,
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Luka Bugarin"
+      },
+      "title": "Test",
+      "description": "Test",
+      "location": "Test",
+      "date": "2021-09-09T15:14:00.000Z",
+      "time": "18:00",
+      "attendees": []
+    },
+    {
+      "id": 4773430,
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Luka Bugarin"
+      },
+      "title": "Skola",
+      "description": "dasdsa",
+      "location": "Novi Sada",
+      "date": "2021-09-01T15:21:00.000Z",
+      "time": "",
+      "attendees": []
     }
   ]
 }
